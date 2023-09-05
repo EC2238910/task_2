@@ -1,0 +1,68 @@
+<!DOCTYPE html> 
+<html lang="en">
+	
+	<head>
+				<style>
+          img{width: 500px;}
+        </style>
+		<meta charset="UTF-8">
+		
+		<!--change description of your web page to task 2-->
+		<meta name="description" content="task 2">
+		
+		<!--change keywords to task 2-->
+		<meta name="keywords" content="task 2">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<!--change title to Task 2-->
+		<title>Task 2</title>
+		
+	</head> 
+	
+	
+	<body> 
+	
+	<!--change heading 1 to my favourite cities and make a list-->
+		<h1>My favourite cities</h1>
+		
+		<ul>
+			<li>Krakow</li>
+			<li>Paris</li>
+			<li>Reikiavik</li>
+			<li>Warsaw</li>
+		</ul>
+	
+	<!--change heading 1 to my fav city and picture of 
+	your favourite city -->	
+		<h1>My favourite city</h1>
+		
+		<img src="krakow.jpg">
+		
+		
+	<!--change heading 1 to my dream holidays (can be the ones you plan in the future.
+		change the table to Country and City and list 3 cities-->	
+		<h1>My dream holidays</h1>
+		
+		<table border="1">
+			<tr>
+				<td>Country</td>
+				<td>City</td>
+			</tr>
+			<tr>
+				<td>Sweden</td>
+				<td>Stockholm</td>
+			</tr>
+      <tr>
+				<td></td>
+				<td>Göteborg</td>
+			</tr>
+      <tr>
+				<td></td>
+				<td>Malmö</td>
+			</tr>
+		</table>
+	</body> 
+	
+</html> 
+	 
